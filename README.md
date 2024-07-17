@@ -57,13 +57,16 @@ for col in data.columns:
 ```
 
 **Using a boxplot to display a visual summary of the data distribution, giving insight to the median, quartiles, and potential outliers.**
+
 ![image](https://github.com/user-attachments/assets/4e7361a0-900b-4f41-a918-f68e34cb0db5)
 
 **Visualizing the distribution using a Pie Chart**
+
 ![image](https://github.com/user-attachments/assets/9f63a6ac-bd31-4c58-8e77-290f72fed947)
 
 
 **Visualizing the number of orders for each size of clothing using a Bar Graph**
+
 ![image](https://github.com/user-attachments/assets/6de36d9f-eb3e-4897-888c-ad12c179c41e)
 
 
