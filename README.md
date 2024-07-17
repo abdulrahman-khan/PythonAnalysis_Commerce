@@ -14,6 +14,12 @@ This project was primarily a self-study project for fun. Although I had no prior
    - matplotlib
    - sklearn
 
+<img width="100" src="https://github.com/user-attachments/assets/ae3de72e-7caa-4d8d-a92d-e7df13499810">
+<img width="50" src="https://github.com/user-attachments/assets/859f5744-3276-45ff-8531-212b72dfa5d3">
+<img width="50" src="https://github.com/user-attachments/assets/79881fd5-3528-4839-8a36-a6ee1bd0fab1">
+<img width="50" src="https://github.com/user-attachments/assets/6807e23a-67ac-4fd5-b969-fd05c41be9fc">
+<img width="50" src="https://github.com/user-attachments/assets/91141cd9-eab3-4cf6-b113-39a86bba1bce">
+
 ## Screenshots & Code Snippets
 ![image](https://github.com/user-attachments/assets/bc2acc23-d78e-453f-a651-54d640720774)
 
