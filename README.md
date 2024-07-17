@@ -2,7 +2,7 @@
 Analyzing E-Commerce dataset using python because coding is cool
 
 ##  Purpose & Disclaimer
-Attempting to clean/manipulate data, creating simple visualizations and trying my hand at some simple regression task.
+Attempting to clean/manipulate data, creating simple visualizations and trying my hand at machine learning using sklearn.
 
 This project was primarily a self-study project for fun. Although I had no prior experience with machine learning, I explored the subject by experimenting with code and following tutorials and documentation, utilizing Anaconda Assistant for support.
 
